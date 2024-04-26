@@ -26,6 +26,7 @@ instr = [
     "boil water",
     "cook spaghetti",
     "fry pancetta with garlic",
+    "snack some pancetta",
     "mix spaghetti with pancetta",
     "mix cheese with eggs",
     "add pasta cooking water",
