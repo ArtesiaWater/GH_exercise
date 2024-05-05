@@ -13,7 +13,7 @@ ingr = [
     "50g pecorino cheese",
     "50g parmesan",
     "3 large eggs",
-    "350g spaghetti",
+    "350kg spaghetti",
     "2 plump garlic cloves, peeled and left whole",
     "50g unsalted butter",
     "sea salt and freshly ground black pepper",
@@ -30,7 +30,7 @@ instr = [
     "mix cheese with eggs",
     "add pasta cooking water",
     "poor egg mix on the pasta",
-    "serve after your inversion is finished",
+    "serve immedeately",
 ]
 
 
