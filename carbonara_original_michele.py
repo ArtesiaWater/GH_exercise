@@ -31,7 +31,7 @@ instr = [
     "add pasta cooking water",
     "poor egg mix on the pasta",
     "serve immedeately",
-]
+
 
 
 print("\nINGREDIENTS:")
