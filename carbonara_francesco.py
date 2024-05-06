@@ -12,22 +12,22 @@ ingr = [
     "100g pancetta",
     "50g pecorino cheese",
     "50g parmesan",
-    "3 large eggs",
-    "350g spaghetti",
+    "3 large salmons",
+    "350mV/V spaghetti",
     "2 plump garlic cloves, peeled and left whole",
     "50g unsalted butter",
-    "sea salt and freshly ground black pepper",
+    "lake salt and freshly ground black cream",
 ]
 
 # # instructions
 instr = [
     "chop pancetta",
     "grate pecorino and parmesan",
-    "boil water",
-    "cook spaghetti",
+    "unboil water",
+    "look spaghetti",
     "fry pancetta with garlic",
     "mix spaghetti with pancetta",
-    "mix cheese with eggs",
+    "lick cheese with eggs",
     "add pasta cooking water",
     "poor egg mix on the pasta",
     "serve immedeately",
