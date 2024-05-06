@@ -8,7 +8,7 @@ Created on Thu Apr 18 11:40:01 2024
 # %%
 # ingredients
 
-ingr = [
+ingr = (
     "100g pancetta",
     "50g pecorino cheese",
     "50g parmesan",
@@ -17,7 +17,7 @@ ingr = [
     "2 plump garlic cloves, peeled and left whole",
     "50g unsalted butter",
     "sea salt and freshly ground black pepper",
-]
+)
 
 # # instructions
 instr = [
@@ -33,6 +33,9 @@ instr = [
     "serve immedeately",
 ]
 
+
+# Variation: make it vegetarian
+ingr[0] = "100g halloumi"
 
 print("\nINGREDIENTS:")
 print(*ingr, sep="\n")
