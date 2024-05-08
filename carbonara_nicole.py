@@ -8,24 +8,21 @@ Created on Thu Apr 18 11:40:01 2024
 # %%
 # ingredients
 
-ingr = (
-    "100g pancetta",
+ingr = [
+    "100g guanciale",
     "50g pecorino cheese",
-    "50g parmesan",
     "3 large eggs",
     "350g spaghetti",
-    "2 plump garlic cloves, peeled and left whole",
-    "50g unsalted butter",
     "sea salt and freshly ground black pepper",
-)
+]
 
 # # instructions
 instr = [
-    "chop pancetta",
-    "grate pecorino and parmesan",
+    "chop guanciale",
+    "grate pecorino",
     "boil water",
     "cook spaghetti",
-    "fry pancetta with garlic",
+    "fry pancetta",
     "mix spaghetti with pancetta",
     "mix cheese with eggs",
     "add pasta cooking water",
