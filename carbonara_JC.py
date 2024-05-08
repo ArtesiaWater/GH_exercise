@@ -14,7 +14,6 @@ ingr = (
     "50g parmesan",
     "3 large eggs",
     "350g spaghetti",
-    "1000g fire"
     "2 plump garlic cloves, peeled and left whole",
     "50g unsalted butter",
     "sea salt and freshly ground black pepper",
