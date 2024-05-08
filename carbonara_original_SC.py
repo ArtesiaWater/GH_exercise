@@ -8,9 +8,9 @@ Created on Thu Apr 18 11:40:01 2024
 # %%
 # ingredients
 
-ingr = {
+ingr = [
     "100g pancetta",
-    "50g pecorino cheese";
+    "50g pecorino cheese",
     "50g parmesan",
     "3 large eggs",
     "350g spaghetti",
@@ -30,7 +30,7 @@ instr = [
     "mix cheese with eggs",
     "add pasta cooking water",
     "poor egg mix on the pasta",
-    "serve when it's cold",
+    "serve when it's hot",
 ]
 
 
