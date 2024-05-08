@@ -9,29 +9,27 @@ Created on Thu Apr 18 11:40:01 2024
 # ingredients
 
 ingr = [
-    "100g sausage",
+    "100g pancetta",
     "50g pecorino cheese",
     "50g parmesan",
     "3 large eggs",
     "350g spaghetti",
-    "2 plump garlic cloves, peeled and left whole",
-    "50g unsalted butter",
     "sea salt and freshly ground black pepper",
 ]
 
 # # instructions
 instr = [
-    "chop sausage",
+    "chop pancetta",
     "grate pecorino and parmesan",
     "boil water",
     "cook spaghetti",
-    "fry pancetta with garlic",
+    "fry pancetta",
     "mix spaghetti with pancetta",
-    "mix cheese with eggs",
+    "mix cheese with the yolk's egg",
     "add pasta cooking water",
     "poor egg mix on the pasta",
     "serve immedeately",
-
+]
 
 
 print("\nINGREDIENTS:")
