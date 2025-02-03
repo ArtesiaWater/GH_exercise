@@ -15,7 +15,7 @@ ingr = [
     "3 large eggs",
     "350g spaghetti",
     "2 plump garlic cloves, peeled and left whole",
-    "50g unsalted butter",
+    "50g salted butter",
     "sea salt and freshly ground black pepper",
 ]
 
