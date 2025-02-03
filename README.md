@@ -1,4 +1,4 @@
-# GH_exercise
+# GitHub Exercise
 This GitHub contains an exercise to learn how to create and merge a Pull Request.
 
 These are the steps you will follow (a gif for each step is shown below):
