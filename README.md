@@ -24,3 +24,4 @@ These are the steps you will follow (a gif for each step is shown below):
 #### 6. Ask someone to review your pull request
 ![](vids/review_PR.gif)
 #### 7. Merge the code 
+![](vids/merge_PR.gif)
