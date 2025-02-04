@@ -1,5 +1,5 @@
 # GitHub Exercise
-This GitHub contains an exercise to learn how to contribut to a repository using a Pull Request.
+This GitHub contains an exercise to learn how to contribute to a project using a Pull Request.
 
 These are the steps you will follow (a gif for each step is shown below):
 1. Create an Issue
