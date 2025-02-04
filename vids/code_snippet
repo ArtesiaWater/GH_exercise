@@ -1,0 +1,2 @@
+# use this to convert mp4 to gif
+ffmpeg -i "2025-02-04 12-03-34.mp4" -vf "fps=10,scale=1024:-1:flags=lanczos,split[s0][s1];[s0]palettegen[p];[s1][p]paletteuse" -loop 0 create_fork4.gif
