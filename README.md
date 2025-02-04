@@ -1,16 +1,16 @@
 # GitHub Exercise
-This GitHub contains an exercise to learn how to create and merge a Pull Request.
+This GitHub contains an exercise to learn how to contribut to a repository using a Pull Request.
 
 These are the steps you will follow (a gif for each step is shown below):
 1. Create an Issue
 2. Create a fork
-3. Make a local copy of your fork
+3. Make a local copy (or codespace) of your fork
 4. Make a new branch
 5. Modify your code using commits in your branch
 6. Create a pull request from your branch
-7. Ask someone to review your pull request
-8. Merge the code
-
+7. Link your issue (step 1) to your pull request
+8. Ask someone to review your pull request
+9. Merge the code
 
 #### 1. Create an Issue
 ![](vids/make_issue.gif)
@@ -24,7 +24,9 @@ These are the steps you will follow (a gif for each step is shown below):
 ![](vids/create_commit.gif)
 #### 6. Create a pull request from your branch
 ![](vids/create_pull_request.gif)
-#### 7. Ask someone to review your pull request
+#### 7. Link your issue (step 1) to your pull request
+![](vids/link_issue_pr.gif)
+#### 8. Ask someone to review your pull request
 ![](vids/review_pull_request.gif)
-#### 8. Merge the code 
+#### 9. Merge the code 
 ![](vids/merge_PR.gif)
