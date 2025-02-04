@@ -17,7 +17,7 @@ These are the steps you will follow (a gif for each step is shown below):
 #### 2. Create a fork
 ![](vids/create_fork.gif)
 #### 3. Make a local copy (or codespace) of your fork
-![](vids/create_local_copy.gif)
+![](vids/create_codespace.gif)
 #### 4. Make a new branch
 ![](vids/create_branch.gif)
 #### 5. Modify your code using commits in your branch
