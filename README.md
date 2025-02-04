@@ -29,4 +29,4 @@ These are the steps you will follow (a gif for each step is shown below):
 #### 8. Ask someone to review your pull request
 ![](vids/review_pull_request.gif)
 #### 9. Merge the code 
-![](vids/merge_PR.gif)
+![](vids/merge_pull_request.gif)
